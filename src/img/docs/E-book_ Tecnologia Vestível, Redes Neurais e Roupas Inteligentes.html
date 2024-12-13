@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E-book: Tecnologia Vestível, Redes Neurais e Roupas Inteligentes</title>
     <style>
@@ -61,8 +61,7 @@
         <section>
             <h2>Introdução</h2>
             <p>Apresentação do tema e sua relevância no século XXI.</p>
-            <img src="src\img\casacoTech.png" width="550" height="450">
-            <a href="file:///C:/Users/TI/Downloads/E-Book.pdf" target="_blank">E-Book</a>
+            <img src="./E-book_ Tecnologia Vestível, Redes Neurais e Roupas Inteligentes_files/casacoTech.png" width="550" height="450">
         </section>
 
         <section>
@@ -124,8 +123,8 @@
         <section>
             <h2>Conclusão</h2>
             <p>O mercado de roupas inteligentes traz benefícios e desafios. Ao entender seu funcionamento, podemos explorar todo o potencial dessa tecnologia de forma responsável.<br>
-                Links:
-                <a href="file:///C:/Users/TI/Downloads/E-Book.pdf" target="_blank">E-BooK</a><b></b> 
+                Link do E-Book:
+                <a href="file:///C:/Users/TI/Downloads/E-Book.pdf">E-BooK</a> 
                 <a href="https://github.com/BelisnalvaCosta/E-Book-Tec-vestiveis.git">github</a>            
             </p>
 
@@ -136,7 +135,7 @@
             <p>Fontes e estudos utilizados no desenvolvimento deste e-book.</p><b></b>
             <p>
                 Professor Cristhof Johann Roosen Runge - Métodos Conexionistas (Redes Neurais) - Univesp<br>
-                Expert Felipe Aguiar - Criando um Ebook com ChatGPT & MidJourney - DIO.me<br>
+                Expert Felipe Aguiar - Criando um Ebook com ChatGPT &amp; MidJourney - DIO.me<br>
                 Chat PGT - IA Generativa (pesquisas e gerar imagens)<br>
                 Google - https://culturaambientalnasescolas.com.br/tecnologia-vestivel/ 
             </p>
@@ -146,5 +145,44 @@
     <footer>
         <p>© 2024 - E-book sobre Tecnologia Vestível. Belisnalva Costa.</p>
     </footer>
-</body>
-</html>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+</body></html>
