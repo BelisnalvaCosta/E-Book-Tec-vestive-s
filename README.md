@@ -1,22 +1,19 @@
 # E-Book Tecnologia Vestíves
 
-Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS
+Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS [^1].
 
 http://127.0.0.1:5500/index.html
 
 Ebook: Tecnologia Vestível, Redes Neurais e Roupas Inteligentes
-file:///C:/Users/TI/Downloads/E-Book.pdf
----
+![E-book_ Tecnologia Vestível, Redes Neurais](https://github.com/user-attachments/assets/c33a5c3b-5dd0-4aa6-abc7-02307e16019f)
 
-Capítulo 1: A Revolução da Tecnologia Vestível
+## Capítulo 1: A Revolução da Tecnologia Vestível
  
 	A tecnologia vestível tem se tornado uma das inovações mais promissoras do século XXI. Com a fusão de dispositivos eletrônicos e vestuário, estamos agora diante de roupas, acessórios e dispositivos que não apenas acompanham nossa rotina, mas interagem e respondem às nossas necessidades. Esses avanços incluem desde relógios inteligentes que monitoram nossa saúde até roupas que podem alterar seu formato e comportamento em tempo real.
 
 	Um dos maiores destaques dessa revolução é o uso de "redes neurais". Baseadas no funcionamento do cérebro humano, essas redes são sistemas computacionais projetados para aprender, adaptar e realizar tarefas de maneira autônoma. No contexto das roupas inteligentes, elas permitem que os vestuários respondam aos movimentos, à temperatura ou até aos sinais corporais dos usuários. Mas, o que isso significa para o futuro da tecnologia vestível?
 
----
-
-Capítulo 2: Redes Neurais e Roupas Inteligentes
+## Capítulo 2: Redes Neurais e Roupas Inteligentes
 
 	As redes neurais são fundamentais para a evolução das roupas inteligentes. Elas permitem que os dispositivos embutidos nas roupas não apenas reagem, mas aprendam com os comportamentos do usuário. Isso é possível por meio de algoritmos avançados que imitam os processos do cérebro, criando uma interação mais intuitiva entre a pessoa e a roupa.
 
@@ -24,9 +21,7 @@ Capítulo 2: Redes Neurais e Roupas Inteligentes
 
 	O que torna esses sistemas tão inovadores é a capacidade de "ajustar comportamentos" automaticamente. Ao coletar dados do usuário — como a posição do corpo ou até os níveis de temperatura — as roupas podem se ajustar sem a necessidade de uma intervenção manual, proporcionando maior conforto e praticidade.
 
----
-
-Capítulo 3: Benefícios das Roupas Inteligentes
+## Capítulo 3: Benefícios das Roupas Inteligentes
 
 	O uso de roupas inteligentes pode trazer uma série de benefícios em diversas áreas. Vamos explorar alguns dos mais importantes:
 
@@ -40,9 +35,7 @@ Capítulo 3: Benefícios das Roupas Inteligentes
 3. Moda e Entretenimento:
    	As roupas inteligentes podem transformar o cenário da moda, permitindo que os usuários ajustem elementos estéticos, como cores e padrões, de acordo com seu humor ou situação. No universo do entretenimento, como no caso das drag queens, as roupas podem se tornar uma extensão das performances, oferecendo novas formas de expressar arte e identidade.
 
----
-
-Capítulo 4: Os Riscos e Desafios das Roupas Inteligentes
+## Capítulo 4: Os Riscos e Desafios das Roupas Inteligentes
  
 
 	Porém, com toda inovação, surgem também riscos que não podem ser ignorados. A privacidade e a segurança são questões centrais no uso de tecnologias vestíveis.
@@ -56,9 +49,7 @@ Capítulo 4: Os Riscos e Desafios das Roupas Inteligentes
 3. Impacto na Vida Pessoal:
  	O monitoramento constante pode afetar a vida pessoal do usuário. A coleta de dados de saúde pode ser usada de maneira indevida por empresas de seguros, alterando suas condições de contrato ou até sua cobertura com base em informações privadas. Além disso, a revenda desses dados para outras empresas, como farmácias ou plataformas de saúde, pode gerar novos dilemas éticos sobre a privacidade.
 
----
-
-Capítulo 5: Como Aproveitar ao Máximo a Tecnologia Vestível com Segurança
+## Capítulo 5: Como Aproveitar ao Máximo a Tecnologia Vestível com Segurança
  
 	Para que as roupas inteligentes e outras tecnologias vestíveis tragam benefícios sem comprometer a privacidade, é essencial adotar uma postura proativa e responsável. Aqui estão algumas dicas para usar essas tecnologias de forma segura:
 
@@ -74,23 +65,21 @@ Capítulo 5: Como Aproveitar ao Máximo a Tecnologia Vestível com Segurança
 4. Mantenha Seus Dispositivos Atualizados:
 	Atualizações frequentes de software são cruciais para corrigir vulnerabilidades de segurança. Manter seu dispositivo atualizado ajuda a protegê-lo contra ameaças cibernéticas.
 
----
-
-Capítulo 6: O Futuro das Roupas Inteligentes e das Redes Neurais
+## Capítulo 6: O Futuro das Roupas Inteligentes e das Redes Neurais
  
 
 	O futuro da tecnologia vestível é promissor, e as possibilidades são infinitas. À medida que as "redes neurais" e a "robótica leve" se tornam mais avançadas, a integração entre os seres humanos e suas roupas será cada vez mais sofisticada. No entanto, é fundamental encontrar um equilíbrio entre inovação e segurança. O potencial de transformação dessas tecnologias no cotidiano é imenso, e estamos apenas começando a explorar seu verdadeiro impacto.
 
 	Ao adotarmos essas inovações de maneira consciente e responsável, podemos aproveitar todos os benefícios das roupas inteligentes, garantindo que elas melhorem nossa qualidade de vida sem comprometer nossa privacidade e segurança.
 
----
-
-Conclusão
+## Conclusão
 
 	O mercado de roupas inteligentes e tecnologias vestíveis está se expandindo rapidamente, trazendo com ele tanto benefícios incríveis quanto desafios significativos. Ao compreender o funcionamento dessas tecnologias e como podemos usá-las de forma responsável, temos a oportunidade de transformar o modo como interagimos com o mundo digital e físico. O futuro da moda, saúde e interatividade está em nossas mãos, e, com cautela, podemos garantir que esse futuro seja tanto emocionante quanto seguro.
 
-Referências
+## Referências
 Professor Cristhof Johann Roosen Runge - Métodos Conexionistas (Redes Neurais) - Univesp ​
 Expert Felipe Aguiar - Criando um Ebook com ChatGPT & MidJourney - DIO.me​
 Chat PGT – IA Generativa (pesquisas e gerar imagens)​
 Google - https://culturaambientalnasescolas.com.br/tecnologia-vestivel/ ​
+
+:[^1] Desafio de Projeto Bootcamp Caixa.
