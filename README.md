@@ -2,10 +2,10 @@
 
 Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS e O script no PowerPoint [^1].
 
-http://127.0.0.1:5500/index.html
-
 Ebook: Tecnologia Vestível, Redes Neurais e Roupas Inteligentes
 ![E-book_ Tecnologia Vestível, Redes Neurais](https://github.com/user-attachments/assets/c33a5c3b-5dd0-4aa6-abc7-02307e16019f)
+
+![E-Book Tecnologia Vestíveis](file:///C:/Users/TI/Downloads/E-Book%20Tecnologia%20Vest%C3%ADveis.pdf)
 
 ## Capítulo 1: A Revolução da Tecnologia Vestível
 	
@@ -76,3 +76,6 @@ Chat PGT – IA Generativa (pesquisas e gerar imagens)​
 Google - https://culturaambientalnasescolas.com.br/tecnologia-vestivel/ ​
 
 [^1]: Desafio de Projeto Bootcamp Caixa.
+
+
+[def]: file:///C:/Users/TI/Downloads/E-Book%20Tecnologia%20Vest%C3%ADveis.pdf
