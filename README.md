@@ -5,6 +5,7 @@ Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS e O script no 
 http://127.0.0.1:5500/index.html
 
 Ebook: Tecnologia Vestível, Redes Neurais e Roupas Inteligentes
+file:///C:/Users/TI/Downloads/E-Book%20Tecnologia%20Vest%C3%ADveis.pdf
 ![E-book_ Tecnologia Vestível, Redes Neurais](https://github.com/user-attachments/assets/c33a5c3b-5dd0-4aa6-abc7-02307e16019f)
 
 ## Capítulo 1: A Revolução da Tecnologia Vestível
