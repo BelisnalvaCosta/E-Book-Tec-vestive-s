@@ -1,10 +1,10 @@
 # E-Book Tecnologia Vestíves
-![E-book](https://media.licdn.com/dms/document/media/v2/D4D1FAQGjGgHsFzr-0Q/feedshare-document-pdf-analyzed/B4DZPRWvUnG0AY-/0/1734384225111?e=1735171200&v=beta&t=acCk3Bn8X2DpIrmdOboLUSKI0bICa1jrePcbWdbz-sw)
 
 Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS e O script no PowerPoint [^1].
 
 Ebook: Tecnologia Vestível, Redes Neurais e Roupas Inteligentes
 ![E-book_ Tecnologia Vestível, Redes Neurais](https://github.com/user-attachments/assets/c33a5c3b-5dd0-4aa6-abc7-02307e16019f)
+https://media.licdn.com/dms/document/media/v2/D4D1FAQGjGgHsFzr-0Q/feedshare-document-pdf-analyzed/B4DZPRWvUnG0AY-/0/1734384225111?e=1735171200&v=beta&t=acCk3Bn8X2DpIrmdOboLUSKI0bICa1jrePcbWdbz-sw
 
 ## Capítulo 1: A Revolução da Tecnologia Vestível
 	
