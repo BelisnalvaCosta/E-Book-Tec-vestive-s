@@ -1,4 +1,4 @@
-# E-Book Tecnologia Vestíves
+# E-Book Tecnologia Vestíveis
 
 Feito na IDE Visual Studio Code, linguagem JavaScript, HTML e CSS e O script no PowerPoint [^1].
 
